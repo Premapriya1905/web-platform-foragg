@@ -1,0 +1,19 @@
+*{ 
+  font-family: Arial, Helvetica, sans-serif;}
+/* universal selector */
+
+.para{
+  color: purple;
+}
+/* class selector */
+
+li{
+  color:rgb(252, 67, 98);
+}
+/* element selector */
+
+#heading{
+  color:blue;
+}
+/* id selector */
+
